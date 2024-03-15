@@ -69,6 +69,7 @@ def create_gdextension_file(project_name, config_path='properties.cfg'):
 
 entry_symbol = "{entry_symbol}"
 compatibility_minimum = "4.2"
+reloadable = true
 
 [libraries]
 
