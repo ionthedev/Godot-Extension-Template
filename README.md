@@ -7,12 +7,12 @@ After following the GDExtension example from the Godot Documentation, I realized
 This current build does not contain godot-cpp, it will actively install it for you. 
 
 ## Prerequisites
-Git and Git Bash
-A Godot 4 Executable
-Visual Studio Build Tools
-VSCode with C/C++ Extension.
-A C++ Compiler, I am using MingW https://www.mingw-w64.org/
-Python
+- Git and Git Bash
+- A Godot 4 Executable
+- Visual Studio Build Tools
+- VSCode with C/C++ Extension.
+- A C++ Compiler, I am using MingW https://www.mingw-w64.org/
+- Python
 
 
 ## Setup
