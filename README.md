@@ -4,7 +4,7 @@ Making the development of Godot Extensions easier for everyone.
 After following the GDExtension example from the Godot Documentation, I realized this is an extremely cumbersome process to work within, so I wanted to attempt to make it easier, feel free to make a pull request if you have some changes you'd like implemented. This project contains C++ files, directly using the code from Godot's Documentation. https://docs.godotengine.org/en/stable/tutorials/scripting/gdextension/gdextension_cpp_example.html
 
 ## DISCLAIMER
-This current build contains Godot-cpp 4.2
+This current build does not contain godot-cpp, it will actively install it for you. 
 
 ## Prerequisites
 Git and Git Bash
