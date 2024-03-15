@@ -46,6 +46,7 @@ def update_gdextension_file(project_name, entry_symbol, project_dir):
 
 entry_symbol = "{entry_symbol}"
 compatibility_minimum = "4.2"
+reloadable = true
 
 [libraries]
 
